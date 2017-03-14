@@ -10,7 +10,7 @@ A web app that tests against AWS Cognito service
 
 
 ## prerequisites
-* npm
+* have npm installed
 
 
 ## Installation
@@ -25,7 +25,8 @@ npm install
 ```
 
 ## Usage
-* Run 
+* Update the UserPoolId and ClientId values in src/config.js 
+* Build the app  
 ```
 npm run build
 ```
